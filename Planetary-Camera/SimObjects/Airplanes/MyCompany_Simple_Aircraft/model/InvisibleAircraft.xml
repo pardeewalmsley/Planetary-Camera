@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{19b168aa-c345-4576-9d99-b5aa95a04311}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="InvisibleAircraft.gltf"/>
+	</LODS>
+</ModelInfo>

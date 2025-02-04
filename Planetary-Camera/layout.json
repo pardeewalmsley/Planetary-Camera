@@ -1,0 +1,154 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/ai.cfg",
+      "size": 737,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/aircraft.cfg",
+      "size": 6086,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/Approach.flt",
+      "size": 2828,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/apron.FLT",
+      "size": 2740,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/cameras.cfg",
+      "size": 102235,
+      "date": 133453124684015652
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/climb.FLT",
+      "size": 3066,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/cockpit.cfg",
+      "size": 4544,
+      "date": 133201563300000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/Cruise.flt",
+      "size": 2828,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/engines.cfg",
+      "size": 7605,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/final.FLT",
+      "size": 2827,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/flight_model.cfg",
+      "size": 19088,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/gameplay.cfg",
+      "size": 1151,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/hangar.flt",
+      "size": 2740,
+      "date": 133046841100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/InvisibleAircraft.bin",
+      "size": 18624,
+      "date": 133455738275673603
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/InvisibleAircraft.gltf",
+      "size": 2182,
+      "date": 133455738275673603
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/InvisibleAircraft.xml",
+      "size": 197,
+      "date": 133455720078275054
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/model.CFG",
+      "size": 656,
+      "date": 133455737276384298
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/panel/panel.cfg",
+      "size": 61,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/runway.FLT",
+      "size": 2662,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/sound/MyCompany_Simple_Aircraft.PC.PCK",
+      "size": 14439673,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/sound/sound.xml",
+      "size": 10914,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/soundAI/MyCompany_Simple_Aircraft_AI.PC.PCK",
+      "size": 4974772,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/soundAI/soundai.xml",
+      "size": 2951,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/systems.cfg",
+      "size": 7537,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/taxi.FLT",
+      "size": 2663,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/texture/texture.CFG",
+      "size": 38,
+      "date": 133046841140000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/texture.01/texture.CFG",
+      "size": 59,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/texture.02/texture.CFG",
+      "size": 59,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/texture.02/thumbnail.JPG",
+      "size": 110207,
+      "date": 133046841120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/texture.02/thumbnail_small.JPG",
+      "size": 27955,
+      "date": 133046841120000000
+    }
+  ]
+}
